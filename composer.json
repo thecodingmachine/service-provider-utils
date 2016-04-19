@@ -1,5 +1,5 @@
 {
-    "name": "thecodingmachine/yaco",
+    "name": "thecodingmachine/service-provider-utils",
     "type": "library",
     "description": "This package contains a set of tools to work with container-interop's service-providers.",
     "license": "MIT",
